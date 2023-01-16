@@ -3,20 +3,20 @@
 
 &nbsp;
 ## 🙋‍♂️ About Me:
-- I’m Front-End Developer Founder Of [Thailand Codes](https://site.thailandcodes.cf) And [Sharebot](https://discord.gg/T3TJgsnVPn) 
+- I’m Founder Of [Thailand Codes](https://site.thailandcodes.cf)
 - I’m From Egypt (Alexandria)
 
 
 &nbsp;
 
 ## 🔥 - Github Statics:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onlymahmouud1&theme=radical" alt="onlymahmouud1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onlymahmouud&theme=radical" alt="onlymahmouud" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlymahmouud1&theme=radical&show_icons=true&locale=en&layout=compact" alt="onlymahmouud1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlymahmouud&theme=radical&show_icons=true&locale=en&layout=compact" alt="onlymahmouud" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlymahmouud1&theme=radical"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlymahmouud&theme=radical"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=onlymahmouud1&show_icons=true&theme=radical"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=onlymahmouud&show_icons=true&theme=radical"/></p>
 
 ## 💻 - My Skills:
 </div>
